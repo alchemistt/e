@@ -1,0 +1,47 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * transducer:
+ *   - http://typekit.com/eulas/000000000000000077508487
+ *   - http://typekit.com/eulas/000000000000000077508489
+ * transducer-condensed:
+ *   - http://typekit.com/eulas/000000000000000077508486
+ * transducer-extended:
+ *   - http://typekit.com/eulas/000000000000000077508478
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-12-04 12:24:40 UTC"}*/
+
+@import url("../p.typekit.net/p_s%3D1%26k%3Dcbo1uus%26ht%3Dtk%26f%3D47829.47838.47854.47855%26a%3D213465%26app%3Dtypekit%26e%3Dcss.css");
+
+@font-face {
+font-family:"transducer-condensed";
+src:url("https://use.typekit.net/af/aeece9/000000000000000077508486/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/aeece9/000000000000000077508486/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/aeece9/000000000000000077508486/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"transducer-extended";
+src:url("https://use.typekit.net/af/7b9ce6/000000000000000077508478/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/7b9ce6/000000000000000077508478/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/7b9ce6/000000000000000077508478/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"transducer";
+src:url("https://use.typekit.net/af/c0871e/000000000000000077508487/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/c0871e/000000000000000077508487/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/c0871e/000000000000000077508487/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"transducer";
+src:url("https://use.typekit.net/af/d14808/000000000000000077508489/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/d14808/000000000000000077508489/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/d14808/000000000000000077508489/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-transducer-condensed { font-family: "transducer-condensed",sans-serif; }
+.tk-transducer-extended { font-family: "transducer-extended",sans-serif; }
+.tk-transducer { font-family: "transducer",sans-serif; }
